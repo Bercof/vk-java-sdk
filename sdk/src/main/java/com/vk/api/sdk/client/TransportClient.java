@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Map;
 
-import org.apache.http.Header;
+import org.apache.hc.core5.http.Header;
 
 public interface TransportClient {
 

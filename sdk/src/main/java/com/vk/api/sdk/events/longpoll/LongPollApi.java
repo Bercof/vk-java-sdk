@@ -10,7 +10,7 @@ import com.vk.api.sdk.objects.callback.longpoll.responses.GetLongPollEventsRespo
 import com.vk.api.sdk.objects.callback.messages.CallbackMessage;
 import com.vk.api.sdk.objects.groups.LongPollServer;
 import com.vk.api.sdk.objects.groups.responses.GetLongPollServerResponse;
-import org.apache.http.ConnectionClosedException;
+import org.apache.hc.core5.http.ConnectionClosedException;
 import org.slf4j.LoggerFactory;
 import org.slf4j.Logger;
 

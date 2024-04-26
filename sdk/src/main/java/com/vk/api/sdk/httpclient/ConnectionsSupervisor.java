@@ -1,6 +1,6 @@
 package com.vk.api.sdk.httpclient;
 
-import org.apache.http.client.methods.HttpUriRequest;
+import org.apache.hc.client5.http.classic.methods.HttpUriRequest;
 import org.slf4j.LoggerFactory;
 import org.slf4j.Logger;
 

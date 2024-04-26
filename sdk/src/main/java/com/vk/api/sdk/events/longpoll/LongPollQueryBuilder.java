@@ -10,8 +10,8 @@ import com.vk.api.sdk.client.ClientResponse;
 import com.vk.api.sdk.client.ClientResponseTypeable;
 import com.vk.api.sdk.client.VkApiClient;
 import com.vk.api.sdk.exceptions.*;
-import org.apache.http.Header;
-import org.apache.http.message.BasicHeader;
+import org.apache.hc.core5.http.Header;
+import org.apache.hc.core5.http.message.BasicHeader;
 import org.slf4j.LoggerFactory;
 import org.slf4j.Logger;
 

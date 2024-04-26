@@ -1,8 +1,8 @@
 package com.vk.api.sdk.client;
 
 import com.vk.api.sdk.queries.EnumParam;
-import org.apache.http.Header;
-import org.apache.http.message.BasicHeader;
+import org.apache.hc.core5.http.Header;
+import org.apache.hc.core5.http.message.BasicHeader;
 
 import java.io.UnsupportedEncodingException;
 import java.lang.reflect.Type;
